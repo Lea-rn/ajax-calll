@@ -1,6 +1,6 @@
 .country-card {
   
-    height: 500px;
+    height: 600px;
     width: 25%;
     margin: 50px 10px;
     box-shadow: 1px 1px 20px black;
@@ -23,4 +23,10 @@ img {
 
 .card-info {
     padding-left: 30px;
+}
+
+
+.neighbor {
+    height: 500px;
+    margin-top: 100px;
 }
